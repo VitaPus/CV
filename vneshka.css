@@ -1,3 +1,28 @@
 body {
-    background-color: #b6e2cd;
+    width: auto;
+    height: auto;
+    background-color: #33CCCC;
+    font-size: 18px;
+
+}
+
+.foto {
+    border-radius: 50%;
+}
+
+.main {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.main__job {
+    flex-wrap: wrap;
+}
+
+footer {
+    background-color: rgb(255, 123, 0);
+    margin: 0;
 }
